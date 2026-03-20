@@ -1,2 +1,3 @@
-# pro-video-platform-blko
-Automated issue comment bot repository
+# Pro Video Platform Blko
+
+Automated issue comment bot repository.
